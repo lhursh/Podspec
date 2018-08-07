@@ -2,6 +2,7 @@ Pod::Spec.new do |s|
   s.name         = "ListrakSDK-iOS"
   s.version      = "1.0.0"
   s.summary      = "A short description of ListrakSDK-iOS."
+  s.homepage 	 = "https://www.listrak.com"
   s.license      = "MIT"
   s.author 	 = "Larisa Hursh"
   s.platform     = :ios
