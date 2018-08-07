@@ -6,6 +6,6 @@ s.homepage = "http://www.listrak.com"
 s.license = "MIT"
 s.author = "Larisa Hursh"
 s.platform = :ios, "10.0"
-s.source = {:http => 'https://github.com/lhursh/YLogging/blob/master/YLogging.zip'}
+s.source = {:http => 'https://github.com/lhursh/YLogging/blob/master/YLogging.zip?raw=true'}
 s.ios.vendored_frameworks = 'YLogging.framework'
 end
